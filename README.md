@@ -60,10 +60,10 @@
 
 ### Шаги
 1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 2.Установите PHP-зависимости
 ```bash
 composer install
